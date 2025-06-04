@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./apps/web-app"
+    },
+    {
+      "path": "./apps/admin-panel"
+    },
+    {
+      "path": "./apps/shared-ui"
     }
   ]
 }

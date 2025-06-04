@@ -1,5 +1,5 @@
 {
-  "name": "@nx-monorepo/web-app",
+  "name": "@nx-monorepo/admin-panel",
   "version": "0.0.1",
   "private": true
 }
