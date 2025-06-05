@@ -1,4 +1,7 @@
-# NxMonorepo Youtube Video
+# NxMonorepo 
+
+**Youtube Video:**
+
 https://youtu.be/lAA7TdFbzrs?si=EOvUGJDVEURAeAT3
 
 
